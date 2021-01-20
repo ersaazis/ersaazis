@@ -47,7 +47,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/bispro-jasa-landingpage-100x100-100x100-1.png",
     "lazyLoad": true,
     "cssOptimize": true,
-    "lazyType": "placeholder",
+    "lazyType": "nothing",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
