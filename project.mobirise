@@ -23,7 +23,7 @@
         "display4Font": "Nunito",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "titlePreset": "Digital Startup",
