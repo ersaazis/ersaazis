@@ -21,11 +21,11 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 ---
 ### ⚙️ What I Do
 <p>
- 🏗️ Design scalable cloud infrastructure  
- 🔐 Implement DevSecOps practices  
- 📈 Build monitoring & observability systems  
- 🤖 Automate deployment workflows  
- 💰 Optimize performance & cost  
+  🏗️ Design scalable cloud infrastructure  
+  🔐 Implement DevSecOps practices  
+  📈 Build monitoring & observability systems  
+  🤖 Automate deployment workflows  
+  💰 Optimize performance & cost  
 </p>
 
 ---
