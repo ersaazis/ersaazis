@@ -34,13 +34,13 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="./images/gallery1.jpg" width="30%" />
-  <img src="./images/gallery2.jpg" width="30%" />
-  <img src="./images/gallery3.jpg" width="30%" />
+  <img src="https://ersaazis.github.io/images/gallery1.jpg" width="30%" />
+  <img src="https://ersaazis.github.io/images/gallery2.jpg" width="30%" />
+  <img src="https://ersaazis.github.io/images/gallery3.jpg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="./images/gallery4.jpg" width="30%" />
-  <img src="./images/gallery5.jpg" width="30%" />
-  <img src="./images/gallery6.jpg" width="30%" />
+  <img src="https://ersaazis.github.io/images/gallery4.jpg" width="30%" />
+  <img src="https://ersaazis.github.io/images/gallery5.jpg" width="30%" />
+  <img src="https://ersaazis.github.io/images/gallery6.jpg" width="30%" />
 </p>
