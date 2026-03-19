@@ -7,7 +7,6 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 🛡️ Passionate about DevSecOps and system reliability  
 
 ---
-
 ### 🚀 Tech Stack
 
 <p>
@@ -20,7 +19,6 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 </p>
 
 ---
-
 ### ⚙️ What I Do
 <p>
  🏗️ Design scalable cloud infrastructure  
@@ -31,7 +29,6 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 </p>
 
 ---
-
 ## 📬 Open To Work
 
 🚀 I’m currently open to **remote opportunities** as a DevOps / DevSecOps / SRE.
@@ -40,44 +37,35 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 💬 WhatsApp: [+6289656217609](https://wa.me/6289656217609)
 
 ---
-
 ## 🖼️ Gallery
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td align="center">
-      <figure>
-        <img src="https://ersaazis.github.io/images/gallery/agi-hackathon-2024-team.png"
-             width="300" height="220"
-             style="object-fit: cover; border-radius:10px;" />
-        <figcaption>AGI Hackathon 2024 Team</figcaption>
-      </figure>
+    <th align="center" width="50%">AGI Hackathon 2024 Team</th>
+    <th align="center" width="50%">ICP Hackathon 2024</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://ersaazis.github.io/images/gallery/agi-hackathon-2024-team.png"
+           style="width: 100%; height: auto; object-fit: cover; border-radius:10px;" />
     </td>
-    <td align="center">
-      <figure>
-        <img src="https://ersaazis.github.io/images/gallery/icp-hackathon-2024.png"
-             width="300" height="220"
-             style="object-fit: cover; object-position: bottom; border-radius:10px;" />
-        <figcaption>ICP Hackathon 2024</figcaption>
-      </figure>
+    <td align="center" width="50%">
+      <img src="https://ersaazis.github.io/images/gallery/icp-hackathon-2024.png"
+           style="width: 100%; height: auto; object-fit: cover; object-position: bottom; border-radius:10px;" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <figure>
-        <img src="https://ersaazis.github.io/images/gallery/bitwyre-engineering-team.png"
-             width="300" height="220"
-             style="object-fit: cover; object-position: bottom; border-radius:10px;" />
-        <figcaption>With the Bitwyre Engineering Team</figcaption>
-      </figure>
+    <th align="center" width="50%">With the Bitwyre Engineering Team</th>
+    <th align="center" width="50%">With the Chronicle Team</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://ersaazis.github.io/images/gallery/bitwyre-engineering-team.png"
+           style="width: 100%; height: auto; object-fit: cover; object-position: bottom; border-radius:10px;" />
     </td>
-    <td align="center">
-      <figure>
-        <img src="https://ersaazis.github.io/images/gallery/chronicle-team.png"
-             width="300" height="220"
-             style="object-fit: cover; object-position: bottom; border-radius:10px;" />
-        <figcaption>With the Chronicle Team</figcaption>
-      </figure>
+    <td align="center" width="50%">
+      <img src="https://ersaazis.github.io/images/gallery/chronicle-team.png"
+           style="width: 100%; height: auto; object-fit: cover; object-position: bottom; border-radius:10px;" />
     </td>
   </tr>
 </table>
