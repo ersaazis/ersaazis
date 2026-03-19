@@ -31,16 +31,31 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 
 ---
 
+## 📬 Open To Work
+
+🚀 I’m currently open to **remote opportunities** as a DevOps / DevSecOps / SRE.
+
+📧 Email: [eam24maret@gmail.com](mailto:eam24maret@gmail.com)  
+💬 WhatsApp: [+6289656217609](https://wa.me/6289656217609)
+
+---
+
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="https://ersaazis.github.io/images/gallery1.jpg" width="30%" />
-  <img src="https://ersaazis.github.io/images/gallery2.jpg" width="30%" />
-  <img src="https://ersaazis.github.io/images/gallery3.jpg" width="30%" />
+  <img src="https://ersaazis.github.io/images/gallery/agi-hackathon-2024-team.png" width="45%" />
+  <img src="https://ersaazis.github.io/images/gallery/icp-hackathon-2024.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://ersaazis.github.io/images/gallery4.jpg" width="30%" />
-  <img src="https://ersaazis.github.io/images/gallery5.jpg" width="30%" />
-  <img src="https://ersaazis.github.io/images/gallery6.jpg" width="30%" />
+  <sub>AGI Hackathon 2024 Team &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; ICP Hackathon 2024</sub>
+</p>
+
+<p align="center">
+  <img src="https://ersaazis.github.io/images/gallery/bitwyre-engineering-team.png" width="45%" />
+  <img src="https://ersaazis.github.io/images/gallery/chronicle-team.png" width="45%" />
+</p>
+
+<p align="center">
+  <sub>With the Bitwyre Engineering Team &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; With the Chronicle Team</sub>
 </p>
