@@ -42,30 +42,34 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 
 ## 🖼️ Gallery
 
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img src="https://ersaazis.github.io/images/gallery/agi-hackathon-2024-team.png"
-       width="300" height="220"
-       style="object-fit:cover; border-radius:10px;" />
-  <figcaption>AGI Hackathon 2024 Team</figcaption>
-</figure>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img src="https://ersaazis.github.io/images/gallery/icp-hackathon-2024.png"
-       width="300" height="220"
-       style="object-fit:cover; border-radius:10px;" />
-  <figcaption>ICP Hackathon 2024</figcaption>
-</figure>
+  <figure style="width: 300px; text-align: center; margin: 0;">
+    <img src="https://ersaazis.github.io/images/gallery/agi-hackathon-2024-team.png"
+         width="300" height="220"
+         style="object-fit: cover; border-radius: 10px;" />
+    <figcaption>AGI Hackathon 2024 Team</figcaption>
+  </figure>
 
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img src="https://ersaazis.github.io/images/gallery/bitwyre-engineering-team.png"
-       width="300" height="220"
-       style="object-fit:cover; border-radius:10px;" />
-  <figcaption>With the Bitwyre Engineering Team</figcaption>
-</figure>
+  <figure style="width: 300px; text-align: center; margin: 0;">
+    <img src="https://ersaazis.github.io/images/gallery/icp-hackathon-2024.png"
+         width="300" height="220"
+         style="object-fit: cover; object-position: bottom; border-radius: 10px;" />
+    <figcaption>ICP Hackathon 2024</figcaption>
+  </figure>
 
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img src="https://ersaazis.github.io/images/gallery/chronicle-team.png"
-       width="300" height="220"
-       style="object-fit:cover; border-radius:10px;" />
-  <figcaption>With the Chronicle Team</figcaption>
-</figure>
+  <figure style="width: 300px; text-align: center; margin: 0;">
+    <img src="https://ersaazis.github.io/images/gallery/bitwyre-engineering-team.png"
+         width="300" height="220"
+         style="object-fit: cover; border-radius: 10px;" />
+    <figcaption>With the Bitwyre Engineering Team</figcaption>
+  </figure>
+
+  <figure style="width: 300px; text-align: center; margin: 0;">
+    <img src="https://ersaazis.github.io/images/gallery/chronicle-team.png"
+         width="300" height="220"
+         style="object-fit: cover; border-radius: 10px;" />
+    <figcaption>With the Chronicle Team</figcaption>
+  </figure>
+
+</div>
