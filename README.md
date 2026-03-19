@@ -42,20 +42,34 @@ Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused 
 
 ## 🖼️ Gallery
 
-<p align="center">
-  <img src="https://ersaazis.github.io/images/gallery/agi-hackathon-2024-team.png" width="45%" />
-  <img src="https://ersaazis.github.io/images/gallery/icp-hackathon-2024.png" width="45%" />
-</p>
+## 🖼️ Gallery
 
 <p align="center">
-  <sub>AGI Hackathon 2024 Team &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; ICP Hackathon 2024</sub>
-</p>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-<p align="center">
-  <img src="https://ersaazis.github.io/images/gallery/bitwyre-engineering-team.png" width="45%" />
-  <img src="https://ersaazis.github.io/images/gallery/chronicle-team.png" width="45%" />
-</p>
+    <div style="width:300px; text-align:center;">
+      <img src="https://ersaazis.github.io/images/gallery/agi-hackathon-2024-team.png"
+           style="width:100%; height:220px; object-fit:cover; border-radius:10px;" />
+      <sub>AGI Hackathon 2024 Team</sub>
+    </div>
 
-<p align="center">
-  <sub>With the Bitwyre Engineering Team &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; With the Chronicle Team</sub>
+    <div style="width:300px; text-align:center;">
+      <img src="https://ersaazis.github.io/images/gallery/icp-hackathon-2024.png"
+           style="width:100%; height:220px; object-fit:cover; border-radius:10px;" />
+      <sub>ICP Hackathon 2024</sub>
+    </div>
+
+    <div style="width:300px; text-align:center;">
+      <img src="https://ersaazis.github.io/images/gallery/bitwyre-engineering-team.png"
+           style="width:100%; height:220px; object-fit:cover; border-radius:10px;" />
+      <sub>With the Bitwyre Engineering Team</sub>
+    </div>
+
+    <div style="width:300px; text-align:center;">
+      <img src="https://ersaazis.github.io/images/gallery/chronicle-team.png"
+           style="width:100%; height:220px; object-fit:cover; border-radius:10px;" />
+      <sub>With the Chronicle Team</sub>
+    </div>
+
+  </div>
 </p>
