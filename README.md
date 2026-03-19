@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**ersaazis/ersaazis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Ersa Azis Mansyur** — a DevOps Engineer, DevSecOps, and SRE focused on building **scalable, secure, and high-availability systems**.
 
-Here are some ideas to get you started:
+🌏 Experienced working with global clients (Australia, US, Canada, South Africa)  
+⚡ Strong in automation, observability, and cloud architecture  
+🛡️ Passionate about DevSecOps and system reliability  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+<p>
+  ☁️ <b>Cloud:</b> AWS, GCP, Azure<br>
+  🏗️ <b>IaC:</b> Terraform, Ansible<br>
+  🐳 <b>Containers:</b> Docker, Kubernetes<br>
+  📊 <b>Observability:</b> Grafana, Loki, Tempo, Prometheus, Mimir<br>
+  💻 <b>Languages:</b> Python, PHP<br>
+  🔄 <b>CI/CD:</b> Automation & Pipelines
+</p>
+
+---
+
+### ⚙️ What I Do
+
+- 🏗️ Design scalable cloud infrastructure  
+- 🔐 Implement DevSecOps practices  
+- 📈 Build monitoring & observability systems  
+- 🤖 Automate deployment workflows  
+- 💰 Optimize performance & cost  
+
+---
+
+## 🖼️ Gallery
+
+<p align="center">
+  <img src="./images/gallery1.jpg" width="30%" />
+  <img src="./images/gallery2.jpg" width="30%" />
+  <img src="./images/gallery3.jpg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./images/gallery4.jpg" width="30%" />
+  <img src="./images/gallery5.jpg" width="30%" />
+  <img src="./images/gallery6.jpg" width="30%" />
+</p>
